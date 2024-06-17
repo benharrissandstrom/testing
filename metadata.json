@@ -2,7 +2,7 @@
     "name": "My NFT",
     "symbol": "",
     "description": "This is a test NFT",
-    "image": "http://ih0.redbubble.net/image.118054446.5814/sticker,375x360.u12.png",
+    "image": "https://cf-ipfs.com/ipfs/bafkreic3vtosgupj7as42onvw2hzy3rlkzmlshjwm3mk6sh2b5pq3vtjka",
     "attributes": [
       {
         "trait_type": "Background",
@@ -16,7 +16,7 @@
     "properties": {
       "files": [
         {
-          "uri": "http://ih0.redbubble.net/image.118054446.5814/sticker,375x360.u12.png",
+          "uri": "https://cf-ipfs.com/ipfs/bafkreic3vtosgupj7as42onvw2hzy3rlkzmlshjwm3mk6sh2b5pq3vtjka",
           "type": "image/png"
         }
       ]
